@@ -1,9 +1,10 @@
 
 
 
-# Aplicativo Web DSVendas
+# Web Application
 
-    Esta aplicação utiliza Java com Spring Boot no back end e TypeScript com ReactJS no Front end
+🇺🇸 This app uses Java with Spring Boot on the backend and TypeScript with React JS on the frontend 
+
 
 # Certificate
 
